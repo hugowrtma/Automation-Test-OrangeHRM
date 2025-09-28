@@ -1,5 +1,6 @@
-// Sanbercode Quiz 3 - OrangeHRM Automation Test (11 Test Cases)
-// Each test is independent and uses 'it()' only
+// Sanbercode Quiz 3 - OrangeHRM Automation Test
+// Author: Oktaryan Hugo Wiratama
+
 
 // Base URL
 const baseUrl = 'https://opensource-demo.orangehrmlive.com/';
